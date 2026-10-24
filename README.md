@@ -46,3 +46,8 @@ Project Repository
 
 GitHub: https://github.com/ntombimdlalose/Chef-Menu-Manager
 
+## Video Demonstration
+YouTube Link:
+https://youtu.be/HHzK52BhASo
+
+
