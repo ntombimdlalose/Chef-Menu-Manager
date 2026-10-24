@@ -51,6 +51,6 @@ YouTube Link:
 https://youtu.be/HHzK52BhASo
 
 ## Snack Expo Dev Link:
-https://snack.expo.dev/?platform=android
+https://snack.expo.dev/@futhi/chefs-manager-app
 
 
