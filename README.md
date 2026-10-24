@@ -50,4 +50,7 @@ GitHub: https://github.com/ntombimdlalose/Chef-Menu-Manager
 YouTube Link:
 https://youtu.be/HHzK52BhASo
 
+## Snack Expo Dev Link:
+https://snack.expo.dev/?platform=android
+
 
